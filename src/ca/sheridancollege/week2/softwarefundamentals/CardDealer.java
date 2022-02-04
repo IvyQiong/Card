@@ -9,6 +9,8 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * The class where we create Cards
  * @author dancye, 2019
  * date:2022-02-04
+ * Name: Qiong Liao
+ * Student ID:991636305
  */
 public class CardDealer 
 {
